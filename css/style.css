@@ -194,7 +194,6 @@ nav .navbar-toggler svg{
   padding: 5px;
   overflow: hidden;
   position: relative;
-  margin: 10px;
 }
 .portfolio .port .box:hover::before{
   transform: translateX(0);
